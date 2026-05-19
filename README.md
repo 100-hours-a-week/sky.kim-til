@@ -4,7 +4,7 @@
 
 ### [5월 3째주, 2주차] : Web, Spring Boot, HTTP
 
-26.05.18 [Spring Boot, HTTP](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2026-05-19.md)
+26.05.19 [Spring Boot, HTTP](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2026-05-19.md)
 
 26.05.18 [Web, Spring Boot](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2026-05-18.md)
 
