@@ -4,7 +4,7 @@
 
 ### [5월 3째주, 2주차] : Web, Spring Boot, HTTP, OOP, JVM, 웹 통신, gradle
 
-26.05.21 [gradle](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2week/2026-05-22.md)
+26.05.22 [gradle](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2week/2026-05-22.md)
 
 26.05.21 [웹](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/2week/2026-05-21.md) - 인증/인가, 쿠키와 세션, API, 페이징
 
