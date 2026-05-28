@@ -1,7 +1,9 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [5월 4째주, 3주차] : DB, Index, ERD, JWT
-26.05.26 [ERD, JWT](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/3week/2026-05-27.md)
+### [5월 4째주, 3주차] : DB, Index, ERD, JWT, NoSql
+26.05.28 [NoSql](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/3week/2026-05-28.md)
+
+26.05.27 [ERD, JWT](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/3week/2026-05-27.md)
 
 26.05.26 [DB, Index](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/3week/2026-05-26.md)
 
