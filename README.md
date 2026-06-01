@@ -1,13 +1,13 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 1째주, 4주차] :
+### [6월 1째주, 4주차] :JPA
 26.06.05
 
 26.06.04
 
 26.06.02
 
-26.06.01
+26.06.01 [JPA](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/4week/2026-06-01.md)
 
 ### [5월 4째주, 3주차] : DB, Index, ERD, JWT, NoSql, Optimizer
 26.05.29 [Optimizer](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/3week/2026-05-29.md)
