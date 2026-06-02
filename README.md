@@ -1,11 +1,11 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 1째주, 4주차] :JPA
+### [6월 1째주, 4주차] :JPA, Spring Data JPA, JPQL, QueryDSL
 26.06.05
 
 26.06.04
 
-26.06.02
+26.06.02 [Spring Data JPA, JPQL, QueryDSL](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/4week/2026-06-02.md)
 
 26.06.01 [JPA](https://github.com/100-hours-a-week/sky.kim-til/blob/main/May/4week/2026-06-01.md)
 
