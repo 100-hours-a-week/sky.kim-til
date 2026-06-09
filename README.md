@@ -1,13 +1,13 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 2째주, 5주차] : 리눅스, 운영체제
+### [6월 2째주, 5주차] : 리눅스, 운영체제기, 동시성, 병렬성, 스케줄링, 스케줄러
 26.06.12 
 
 26.06.11
 
 26.06.10
 
-26.06.09
+26.06.09 [동시성, 병렬성, 스케줄링, 스케줄러](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/5week/2026-06-09.md)
 
 26.06.08 [리눅스, 운영체제](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/5week/2026-06-08.md)
 
