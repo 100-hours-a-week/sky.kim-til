@@ -9,7 +9,7 @@
 
 26.06.17 
 
-26.06.16 
+26.06.16 [Inline, Out Of Path, Wireshark](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-16.md)
 
 26.06.15 [네트워크](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-15.md)
 
