@@ -5,9 +5,7 @@
 
 26.06.19
 
-26.06.18 
-
-26.06.17 
+26.06.18 [CIDR, 서브넷 마스크](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-18.md)
 
 26.06.16 [Inline, Out Of Path, Wireshark](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-16.md)
 
