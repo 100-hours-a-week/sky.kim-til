@@ -3,7 +3,7 @@
 ### [6월 2째주, 5주차]
 - 네트워크, Inline, Out Of Path, Wireshark, CIDR, 서브넷 마스크, OSI
 
-26.06.19 [OSI](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-18.md)
+26.06.19 [OSI](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-19.md)
 
 26.06.18 [CIDR, 서브넷 마스크](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-18.md)
 
