@@ -1,6 +1,16 @@
 # 오늘 내가 배운 것들(Today I Learned)
+### [6월 4째주, 7주차]
+- VPC, 보안 그룹, IAM 
 
-### [6월 2째주, 5주차]
+26.06.25 
+
+26.06.24 
+
+26.06.23 
+
+26.06.22 [VPC, 보안그룹, IAM](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-22.md)
+
+### [6월 3째주, 6주차]
 - 네트워크, Inline, Out Of Path, Wireshark, CIDR, 서브넷 마스크, OSI
 
 26.06.19 [OSI](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-19.md)
