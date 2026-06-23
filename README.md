@@ -1,12 +1,12 @@
 # 오늘 내가 배운 것들(Today I Learned)
 ### [6월 4째주, 7주차]
-- VPC, 보안 그룹, IAM 
+- VPC, 보안 그룹, IAM ,EFS, S3, RDS
 
 26.06.25 
 
 26.06.24 
 
-26.06.23 
+26.06.23 [EFS, S3, RDS](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-23.md)
 
 26.06.22 [VPC, 보안그룹, IAM](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-22.md)
 
@@ -16,6 +16,8 @@
 26.06.19 [OSI](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-19.md)
 
 26.06.18 [CIDR, 서브넷 마스크](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-18.md)
+
+26.06.17 으아아아아 미쳤지!
 
 26.06.16 [Inline, Out Of Path, Wireshark](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/6week/2026-06-16.md)
 
