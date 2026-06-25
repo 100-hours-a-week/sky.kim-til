@@ -1,8 +1,8 @@
 # 오늘 내가 배운 것들(Today I Learned)
 ### [6월 4째주, 7주차]
-- VPC, 보안 그룹, IAM ,EFS, S3, RDS, ElatiCache, ELB, CloudFront
+- VPC, 보안 그룹, IAM ,EFS, S3, RDS, ElatiCache, ELB, CloudFront, Lambda, API Gateway, CloudWatch
 
-26.06.25 
+26.06.25 [Lambda, API Gateway, CloudWatch](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-25.md)
 
 26.06.24 [ElatiCache, ELB, CloudFront](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-24.md)
 
