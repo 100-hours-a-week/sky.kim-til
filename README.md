@@ -1,10 +1,10 @@
 # 오늘 내가 배운 것들(Today I Learned)
 ### [6월 4째주, 7주차]
-- VPC, 보안 그룹, IAM ,EFS, S3, RDS
+- VPC, 보안 그룹, IAM ,EFS, S3, RDS, ElatiCache, ELB, CloudFront
 
 26.06.25 
 
-26.06.24 
+26.06.24 [ElatiCache, ELB, CloudFront](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-24.md)
 
 26.06.23 [EFS, S3, RDS](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/7week/2026-06-23.md)
 
