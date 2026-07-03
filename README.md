@@ -1,13 +1,13 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [6월 5째주, 8주차]
-- Docker, Portainer
+- Docker, Portainer ,Bridge Network, volume
 
-26.07.02 
+26.07.03
 
-26.07.02 
+26.07.02 [Docker Compose](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/8week/2026-07-02.md)
 
-26.07.01 
+26.07.01 [Bridge Network, volume](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/8week/2026-07-01.md)
 
 26.06.30 [Portainer](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jun/8week/2026-06-30.md)
 
