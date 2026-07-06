@@ -1,9 +1,22 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 5째주, 8주차]
+### [7월 1째주, 9주차]
+- CI/CD
+
+26.07.10
+
+26.07.09
+
+26.07.08
+
+26.07.07
+
+26.07.06 [CI/CD](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-06.md)
+
+### [6월 5째주 ~ 7월 첫 째주, 8주차]
 - Docker, Portainer ,Bridge Network, volume
 
-26.07.03
+26.07.03 [딥다이브](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/8week/2026-07-03.md)
 
 26.07.02 [Docker Compose](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/8week/2026-07-02.md)
 
