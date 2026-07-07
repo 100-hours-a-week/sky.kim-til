@@ -1,7 +1,7 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 1째주, 9주차]
-- CI/CD
+- CI/CD, 무중단 배포(Blue/Green, Rolling, Canary)
 
 26.07.10
 
@@ -9,7 +9,7 @@
 
 26.07.08
 
-26.07.07
+26.07.07 [무중단 배포](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-07.md)
 
 26.07.06 [CI/CD](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-06.md)
 
