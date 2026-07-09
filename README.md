@@ -5,7 +5,7 @@
 
 26.07.10
 
-26.07.09
+26.07.09 [강의 내용 총 정리 ](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-09.md)
 
 26.07.08 [ECR, Code Deploy](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-08.md)
 
