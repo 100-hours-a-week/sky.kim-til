@@ -1,11 +1,24 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
+### [7월 2째주, 10주차]
+- 
+
+26.07.17 
+
+26.07.16 
+
+26.07.15 
+
+26.07.14 
+
+26.07.13 
+
 ### [7월 1째주, 9주차]
 - CI/CD, 무중단 배포(Blue/Green, Rolling, Canary), ECR, Code Deploy
 
-26.07.10
+26.07.10 [딥다이브](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-10.md)
 
-26.07.09 [강의 내용 총 정리 ](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-09.md)
+26.07.09 [강의 내용 총 정리](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-09.md)
 
 26.07.08 [ECR, Code Deploy](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-08.md)
 
