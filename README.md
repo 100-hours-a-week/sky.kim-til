@@ -1,7 +1,7 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 2째주, 10주차]
-- 
+- kubernetes
 
 26.07.17 
 
@@ -11,7 +11,7 @@
 
 26.07.14 
 
-26.07.13 
+26.07.13 [kubernetes](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-13.md)
 
 ### [7월 1째주, 9주차]
 - CI/CD, 무중단 배포(Blue/Green, Rolling, Canary), ECR, Code Deploy
