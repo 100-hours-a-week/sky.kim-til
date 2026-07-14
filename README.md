@@ -1,7 +1,7 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 2째주, 10주차]
-- kubernetes
+- kubernetes, Pod, Label, Selector
 
 26.07.17 
 
@@ -9,7 +9,7 @@
 
 26.07.15 
 
-26.07.14 
+26.07.14 [Pod, Label, Selector](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-14.md)
 
 26.07.13 [kubernetes](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-13.md)
 
