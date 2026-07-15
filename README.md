@@ -7,7 +7,7 @@
 
 26.07.16 
 
-26.07.15 
+26.07.15 [Service, Probe, Qos Classes](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-15.md)
 
 26.07.14 [Pod, Label, Selector](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-14.md)
 
