@@ -1,11 +1,24 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 2째주, 10주차]
+- namespace, ResourceQuota, LimitRange, ConfigMap, Secret
+
+26.07.24
+
+26.07.23 
+
+26.07.22 
+
+26.07.21 
+
+26.07.20 [namespace, ResourceQuota, LimitRange, ConfigMap, Secret](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-20.md)
+
+### [7월 2째주, 10주차]
 - kubernetes, Pod, Label, Selector
 
-26.07.17 
+26.07.17 휴강
 
-26.07.16 
+26.07.16 [네트워킹 데이](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-16.md)
 
 26.07.15 [Service, Probe, Qos Classes](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-15.md)
 
