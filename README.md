@@ -9,7 +9,7 @@
 
 26.07.22 
 
-26.07.21 
+26.07.21 [Controller, ReplicaSet, Deployment](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-21.md)
 
 26.07.20 [namespace, ResourceQuota, LimitRange, ConfigMap, Secret](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-20.md)
 
