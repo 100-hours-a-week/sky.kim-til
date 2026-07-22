@@ -1,7 +1,7 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 2째주, 10주차]
-- namespace, ResourceQuota, LimitRange, ConfigMap, Secret
+- namespace, ResourceQuota, LimitRange, ConfigMap, Secret, Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP
 
 26.07.24
 
