@@ -1,13 +1,14 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 2째주, 10주차]
-- namespace, ResourceQuota, LimitRange, ConfigMap, Secret, Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP
-
+- namespace, ResourceQuota, LimitRange, ConfigMap, Secret, 
+- Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP
+- Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling
 26.07.24
 
-26.07.23 
+26.07.23 [Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-23.md)
 
-26.07.22 [Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-21.md)
+26.07.22 [Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-22.md)
 
 26.07.21 [Controller, ReplicaSet, Deployment](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-21.md)
 
