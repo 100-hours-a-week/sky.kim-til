@@ -4,7 +4,8 @@
 - namespace, ResourceQuota, LimitRange, ConfigMap, Secret, 
 - Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP
 - Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling
-26.07.24
+
+26.07.24 [딥다이브](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-24.md)
 
 26.07.23 [Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-23.md)
 
