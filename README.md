@@ -1,6 +1,19 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
-### [7월 2째주, 10주차]
+### [7월 5째주, 12주차]
+- RBAC, ServiceAccount, Helm, Ingress
+
+26.07.31 
+
+26.07.30 
+
+26.07.29 
+
+26.07.28 
+
+26.07.27 [RBAC, ServiceAccount, Helm, Ingress](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-27.md)
+
+### [7월 4째주, 11주차]
 - namespace, ResourceQuota, LimitRange, ConfigMap, Secret, 
 - Job, CronJob, Networking, CNI, VXLAN, IP in IP, BGP
 - Volume, PV/PVC, StorageClass, StatefulSet, Node Scheduling
@@ -15,7 +28,7 @@
 
 26.07.20 [namespace, ResourceQuota, LimitRange, ConfigMap, Secret](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/11week/2026-07-20.md)
 
-### [7월 2째주, 10주차]
+### [7월 3째주, 10주차]
 - kubernetes, Pod, Label, Selector
 
 26.07.17 휴강
@@ -28,7 +41,7 @@
 
 26.07.13 [kubernetes](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/10week/2026-07-13.md)
 
-### [7월 1째주, 9주차]
+### [7월 2째주, 9주차]
 - CI/CD, 무중단 배포(Blue/Green, Rolling, Canary), ECR, Code Deploy
 
 26.07.10 [딥다이브](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/9week/2026-07-10.md)
