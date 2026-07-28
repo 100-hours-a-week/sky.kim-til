@@ -9,7 +9,7 @@
 
 26.07.29 
 
-26.07.28 
+26.07.28 [ArgoCD, PLG Stack(Prometheus, Loki, Grafana](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-28.md)
 
 26.07.27 [RBAC, ServiceAccount, Helm, Ingress](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-27.md)
 
