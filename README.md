@@ -7,7 +7,7 @@
 
 26.07.30 
 
-26.07.29 
+26.07.29 [AutoScaler (HPA,VPA, CA)](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-29.md)
 
 26.07.28 [ArgoCD, PLG Stack(Prometheus, Loki, Grafana](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-28.md)
 
