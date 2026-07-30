@@ -5,7 +5,7 @@
 
 26.07.31 
 
-26.07.30 
+26.07.30 [과제 - ArgoCD 적용 하기](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-30.md)
 
 26.07.29 [AutoScaler (HPA,VPA, CA)](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-29.md)
 
