@@ -1,9 +1,9 @@
 # 오늘 내가 배운 것들(Today I Learned)
 
 ### [7월 5째주, 12주차]
-- RBAC, ServiceAccount, Helm, Ingress
+- RBAC, ServiceAccount, Helm, Ingress, ArgoCD(과제), StorageClass(과제)
 
-26.07.31 
+26.07.31 [과제 - PLG 적용 하기(AWS EBS CLI, StorageClass)](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-31.md) 
 
 26.07.30 [과제 - ArgoCD 적용 하기](https://github.com/100-hours-a-week/sky.kim-til/blob/main/Jul/12week/2026-07-30.md)
 
